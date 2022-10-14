@@ -1,4 +1,4 @@
-[![](https://i.gyazo.com/ff85a4e3a0f4a6b1e1e4f413dd5d1e7d.png)](https://gyazo.com/ff85a4e3a0f4a6b1e1e4f413dd5d1e7d)
+[![]<center>(https://i.gyazo.com/ff85a4e3a0f4a6b1e1e4f413dd5d1e7d.png)](https://gyazo.com/ff85a4e3a0f4a6b1e1e4f413dd5d1e7d)</center>
 
 <!--
 **rubenmoran/rubenmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

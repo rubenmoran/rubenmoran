@@ -1,5 +1,5 @@
 <center>
 
-![](./rubenmoran.png)
+![](./images/Rubenmoran.png)
 
 </center>
